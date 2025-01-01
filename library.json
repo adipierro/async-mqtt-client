@@ -23,9 +23,9 @@
       "platforms": "espressif8266"
     },
     {
-      "owner": "esphome",
-      "name": "AsyncTCP-esphome",
-      "version": "^1.1.1",
+      "owner": "mathieucarbou",
+      "name": "AsyncTCP",
+      "version": "^3.3.1",
       "platforms": "espressif32"
     }
   ]
