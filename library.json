@@ -10,7 +10,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/HeMan/async-mqtt-client.git"
+    "url": "https://github.com/adipierro/async-mqtt-client.git"
   },
   "version": "2.1.0",
   "frameworks": "arduino",
@@ -20,12 +20,12 @@
       "owner": "esphome",
       "name": "ESPAsyncTCP-esphome",
       "version": "^2.0.0",
-      "platforms": "espressif8266"
+      "platforms": ["espressif8266"]
     },
     {
-      "owner": "ESP32Async",
+      "owner": "esphome",
       "name": "AsyncTCP",
-      "version": "^3.4.5",
+      "version": "^2.1.4",
       "platforms": ["espressif32"]
     }
   ]
