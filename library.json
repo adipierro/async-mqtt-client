@@ -24,7 +24,7 @@
     },
     {
       "owner": "esphome",
-      "name": "AsyncTCP",
+      "name": "AsyncTCP-esphome",
       "version": "^2.1.4",
       "platforms": ["espressif32"]
     }
